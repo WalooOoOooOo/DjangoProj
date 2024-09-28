@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flexbox;
+    background-color: blanchedalmond;
+    place-content: center;
+}
+h1{
+    text-align: center;
+}
